@@ -12,7 +12,7 @@ The system includes a point of sale system also it manages Sellers, Admins and s
 
 
 ## Author
-**Sanchai Ahilan** - [LinkedIn](https://www.linkedin.com/in/sanchai-ahilan-j-k-812953222/)
+**Abhi Pandey** - [LinkedIn](https://www.linkedin.com/in/abhipandey1402/)
 
 
 ## Prerequisites
@@ -24,39 +24,22 @@ Download and Install [Apache Netbeans](https://netbeans.apache.org/download/inde
 #### Apache Derby
 Download and Install [Apache Derby](https://db.apache.org/derby/derby_downloads.html)
 
-
-## Run this Application
-### Download and unzip contents from GitHub repo
-Download the [Supermarket Billing System](https://github.com/SanchaiAhilan/Supermarket-Billing-system/archive/master.zip) and unzip
-
-###  Launch the app
-To run the project from the command line, go to the dist folder and type the following
-```
-java -jar "supermarket.jar"
-```
-
-
 ## Screenshots
 ### Splash
-![image](https://user-images.githubusercontent.com/89059194/143206110-abf10f19-9d97-4c04-971f-6f47f4508403.png)
+![image](https://i.postimg.cc/jSqCv4zf/Splash-Page.png)
 
 ### Login
-![image](https://user-images.githubusercontent.com/89059194/143206380-f2731736-dc1d-4f0d-8b84-f388f2038a7b.png)
+![image](https://i.postimg.cc/3J8KHJd5/Login-Page.png)
 
 ### Seller
-![image](https://user-images.githubusercontent.com/89059194/143207097-e6785dd9-39e3-43c5-b1f6-c926197b650c.png)
+![image](https://i.postimg.cc/rwQNqLxY/Seller-Page.png)
 
 ### Categories
-![image](https://user-images.githubusercontent.com/89059194/143207126-764e6e22-765d-4c59-bc35-993687d9025a.png)
+![image](https://i.postimg.cc/MTkMSsPF/Category-Page.png)
 
 ### Products
-![image](https://user-images.githubusercontent.com/89059194/143207177-e7198d23-9b24-4f4b-b9f3-83322380ea5e.png)
+![image](https://i.postimg.cc/KcDK6Dn0/Product-Page.png)
 
 ### Seller point
-![image](https://user-images.githubusercontent.com/89059194/143207426-2aa5f9f9-7b73-434a-8924-9bb48d84b31e.png)
+![image](https://i.postimg.cc/1tYdXqF2/Billing-Page.png)
 
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
